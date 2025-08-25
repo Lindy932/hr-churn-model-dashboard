@@ -1,11 +1,20 @@
 # Employee Churn Risk Prediction & Retention Insights  
 
 ## 📌 Project Overview  
-This project is a **pilot HR analytics initiative** designed to **predict employee turnover risk** and provide HR teams with actionable insights to **reduce attrition**.  
-It leverages **Google BigQuery, Google Colab, PyCaret (Random Forest), and Looker Studio** to answer critical HR questions and deliver insights through an **interactive dashboard**.  
+- This project is a pilot HR analytics initiative designed to predict employee turnover risk and provide HR teams with actionable insights to reduce attrition.
+- It leverages Google BigQuery, Google Colab, PyCaret (Random Forest), and Looker Studio to answer critical HR questions and deliver insights through an interactive dashboard.  
 
 ---
 
+## Dashboard
+
+
+<img width="733" height="547" alt="Screen Shot 2025-08-25 at 7 53 44 PM" src="https://github.com/user-attachments/assets/6038b416-de4b-451a-828f-c3ce249814eb" />
+
+From Google Looker Studio
+
+
+---
 ## ❓ Questions  
 
 - Which employees are most at risk of quitting?  
@@ -61,6 +70,9 @@ Over 15,000+ Employee Records Analyzed from the Pilot Program
 - Automated data flow from Python to Looker Studio using the **REST API**, ensuring up-to-date insights.  
 
 ---
+
+
+
 
 ## 📈 Key Results  
 
